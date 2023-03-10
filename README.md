@@ -41,4 +41,8 @@
 
     /ref
 
-    chocolates con el valor de ref menor al promedio 
+    chocolates con el valor de ref menor al promedio, solo las columnas company,ref,res
+    
+    
+    
+    ![meme](https://raw.githubusercontent.com/olivierifederico/proyecto1_sup07/main/_src/PC180288.jpg)
