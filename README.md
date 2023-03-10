@@ -1,6 +1,8 @@
 <h1>Proyecto - SUP04</h1>
 
-![Chocolate-banner](https://raw.githubusercontent.com/olivierifederico/proyecto-sup_04/main/__src/chocolate.jpg)
+![Chocolate-banner](https://github.com/olivierifederico/proyecto-sup_04/blob/master/__src/chocolate.jpg?raw=true)
+
+<h3>Pandas + FastApi + Docker</h3>
 
 - Utilizar archivo choco.csv que se encuentra en la carpeta data
 
