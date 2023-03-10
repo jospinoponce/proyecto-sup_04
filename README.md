@@ -2,6 +2,8 @@
 
 ![Chocolate-banner](https://github.com/olivierifederico/proyecto-sup_04/blob/master/__src/chocolate.jpg?raw=true)
 
+---
+
 <h3>Pandas + FastApi + Docker</h3>
 
 - Utilizar archivo choco.csv que se encuentra en la carpeta data
@@ -44,5 +46,12 @@
     chocolates con el valor de ref menor al promedio, solo las columnas company,ref,res
     
     
+- Hacer el deploy en render
+    
+    ---
+    
+    <h2>Hay premio para el que lo complete </h2>
+    
     
     ![meme](https://raw.githubusercontent.com/olivierifederico/proyecto1_sup07/main/_src/PC180288.jpg)
+    ---
